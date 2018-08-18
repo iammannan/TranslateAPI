@@ -18,7 +18,7 @@ Simple Java library to translate your text using Google Translate without using 
 * Step 2. Add the dependency
 ```java
    dependencies {
-	        implementation 'com.github.iammannan:TranslateAPI:1.0'
+	        implementation 'com.github.iammannan:TranslateAPI:1.1'
 	}
 ```
   * Full Code - Example
