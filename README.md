@@ -2,7 +2,7 @@
 Simple Java library to translate your text using Google Translate without using of API KEY
 
 # Screenshot
-![alt text](https://raw.githubusercontent.com/iammannan/TranslateAPI/master/demo2.png)
+![alt text](https://raw.githubusercontent.com/iammannan/TranslateAPI/master/demo2.webp)
 
 # Download
 
